@@ -14,7 +14,7 @@ This repository contains scripts and data for the paper "Language Technology App
    2. translation from Oracc
    3. collocate
    4. translation from Oracc  
-   5. period distributio
+   5. period distribution
    6. genre distribution
    7. period and genre distribution
    8. keyword freq
