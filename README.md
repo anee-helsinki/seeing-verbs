@@ -10,7 +10,8 @@ This repository contains scripts and data for the paper "Language Technology App
    Script parameters  
 + results-pmi2-top50.tsv  
    Results in .tsv format (can be opened in Excel). Please note that the Korp version of Oracc has been updated and the links may not return all hits. Fields in the file:  
-   keyword, translation, collocate, translation, keyword freq, collocate freq, co-occurrence freq, PMI2 score, average distance from each other in words, url to Korp  
+   1. keyword  
+   2. translation, collocate, translation, keyword freq, collocate freq, co-occurrence freq, PMI2 score, average distance from each other in words, url to Korp  
 + period-genre-distribution.tsv  
    Distribution of seeing verbs in each period and genre in our dataset
 + period-distribution-matrix.tsv  
