@@ -5,7 +5,7 @@ This repository contains scripts and data for the paper "Language Technology App
 
 **/data**  
 + aug18-nolex.txt  
- * Lemmatized dataset from Oracc  
+   Lemmatized dataset from Oracc  
 + results-pmi2-top50.log  
  * Script parameters  
 + results-pmi2-top50.tsv  
