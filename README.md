@@ -3,7 +3,7 @@ Verbs of seeing in Akkadian
 
 This repository contains scripts and data for the paper "Language Technology Approach to Seeing in Akkadian".
 
-**/data**
+**/data**  
 aug18-nolex.txt  
      Lemmatized dataset from Oracc  
 results-pmi2-top50.log  
