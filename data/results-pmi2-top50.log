@@ -1,0 +1,16 @@
+conditions {'stopwords': ['', '_', '<BUFFER>'], 'stopwords_regex': [], 'conditions': [], 'conditions_regex': []}
+corpus_size 980992
+date 2018-09-05 16:53:33.781325
+distance_scaling False
+filename aug18-nolex.txt
+freq_threshold 3
+log_base 2
+measure PMI2
+output_format scores
+symmetry True
+track_distance True
+window_scaling False
+windowsize 7
+words {1: ['barû', 'palāsu', 'naṭālu', 'ṣubbû', 'amāru', 'dagālu', 'hiāṭu'], 2: []}
+--------------------
+pmizer version: 2018-08-14
