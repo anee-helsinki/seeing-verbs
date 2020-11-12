@@ -7,7 +7,7 @@ This repository contains scripts and data for the paper "Language Technology App
 + aug18-nolex.txt  
    Lemmatized dataset from Oracc  
 + results-pmi2-top50.log  
-   Script parameters  
+   Script parameters for pmizer (see https://github.com/asahala/Pmizer)
 + results-pmi2-top50.tsv  
    Results in .tsv format. Fields in the file:  
    1. keyword  
