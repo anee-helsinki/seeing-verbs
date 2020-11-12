@@ -22,6 +22,6 @@ This repository contains scripts and data for the paper "Language Technology App
    10. co-occurrence freq
    11. PMI2 score
    12. average distance between keyword and collocate (in words)
-   13. url to Korp (all links may not return results, as Korp has been updated in 2019: see https://www.kielipankki.fi/corpora/oracc/ for more info and user guide)
+   13. url to Korp (all links may not return results, as Korp Oracc had a major update in 2019: see https://www.kielipankki.fi/corpora/oracc/ for more info and user guide). Note that the co-occurrence of words (a, b) is symmetric, meaning that (a, b) == (b, a). Thus, if you search results from Korp using the links and do not get any results, you may have to switch the search boxes in reversed order.
 + period/genre-distribution-matrix.tsv  
    Distribution of seeing verbs in different genres and periods as a matrix representation
